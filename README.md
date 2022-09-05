@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Marcelo+Adriel+Moresco;I'm+20+years+old;I+from+Jaragua+do+Sul,+SC;Eu+Estudo+Engenharia+de+Software+na+Catolica;Be+Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Marcelo+Adriel+Moresco;I'm+20+years+old;I+from+Jaragua+do+Sul,+SC;Eu+Estudo+Engenharia+de+Software+na+Catolica;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -9,10 +9,6 @@
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=marcelomoresco&theme=gotham&hide_border=true&area=true)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marcelomoresco&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <div align="center">  
 <a href="https://www.instagram.com/marcelomoresco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -41,10 +37,5 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{marcelomoresco}/count.svg" /></p> 
-<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
