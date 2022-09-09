@@ -11,7 +11,7 @@ I'm studying Flutter and Dart to become a better mobile developer.
 - 🔭 I’m currently working on my own projects.
 - 🌱 I have experience with Flutter and Dart by building some projects.
 
-- See my LinkedIn: [marcelomoresco](https://www.linkedin.com/in/marcelo-adriel-moresco-a32104179/)
+- See my LinkedIn: [Marcelo Moresco](https://www.linkedin.com/in/marcelo-adriel-moresco-a32104179/)
 
 A clean and understandable code, as a good poem should be.
 
