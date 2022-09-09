@@ -4,9 +4,14 @@
 
 ### Code is magic.
 
-I create ideas and develop solutions in the shape of software using my creativity and my technical knowledge in Flutter/dart by building mobile apps.
+I'm a Flutter Developer Jr and I create ideas and develop solutions in the shape of software using my creativity and my technical knowledge in Flutter/dart by building mobile apps.
 
-Always writing not just scalable softwares, but also the readable code that will make the scalability possible.
+I'm studying Flutter and Dart to become a better mobile developer.
+
+- 🔭 I’m currently working on my own projects.
+- 🌱 I have experience with Flutter and Dart by building some projects.
+
+- See my LinkedIn: [marcelomoresco](https://www.linkedin.com/in/marcelo-adriel-moresco-a32104179/)
 
 A clean and understandable code, as a good poem should be.
 
