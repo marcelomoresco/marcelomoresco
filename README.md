@@ -1,4 +1,3 @@
-![image](https://user-images.githubusercontent.com/85464545/189430980-121fbc64-a0e7-4ff2-8c76-8d93527c20b2.png)
 
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/marcelo-adriel-moresco-a32104179/" target="_blank"> Marcelo Moresco </a></h1>
 
