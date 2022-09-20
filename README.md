@@ -22,7 +22,3 @@ A clean and understandable code, as a good poem should be.
 
 ![Flutter](https://img.shields.io/badge/-Flutter-purple?&style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-white?&style=for-the-badge&logo=dart&logoColor=blue) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-yellow?&style=for-the-badge&logo=firebase&logoColor=orange)![Sqlite](https://img.shields.io/badge/-Sqlite-white?&style=for-the-badge&logo=sqlite&logoColor=blue)
 
-
-<a href="https://github.com/marcelomoresco/marcelomoresco">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelomoresco&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=9400D3&bg_color=1d1f21&hide=contribs,issues,prs"/>
-</a>
