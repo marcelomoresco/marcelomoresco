@@ -17,3 +17,7 @@ I'm studying Flutter and Dart to become a better mobile developer.
 A clean and understandable code, as a good poem should be.
 
 ⚡
+
+## 💼 Stacks
+
+![Flutter](https://img.shields.io/badge/-Flutter-purple?&style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-white?&style=for-the-badge&logo=dart&logoColor=blue) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-yellow?&style=for-the-badge&logo=firebase&logoColor=orange)![Sqlite](https://img.shields.io/badge/-Sqlite-white?&style=for-the-badge&logo=sqlite&logoColor=blue)
