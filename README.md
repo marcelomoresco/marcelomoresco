@@ -24,5 +24,5 @@ A clean and understandable code, as a good poem should be.
 
 
 <a href="https://github.com/marcelomoresco/marcelomoresco">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeividWillyan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=9400D3&bg_color=1d1f21&hide=contribs,issues,prs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelomoresco&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=9400D3&bg_color=1d1f21&hide=contribs,issues,prs"/>
 </a>
