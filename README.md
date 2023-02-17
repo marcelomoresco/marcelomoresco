@@ -10,8 +10,6 @@ I'm a Flutter Developer and I create ideas and develop solutions in the shape of
 
 I'm studying Flutter and Dart to become a better mobile developer.
 
-- 🌱 I have experience with Flutter and Dart by building some personal projects.
-
 - See my LinkedIn: [Marcelo Moresco](https://www.linkedin.com/in/marcelo-adriel-moresco-a32104179/)
 
 A clean and understandable code, as a good poem should be.
