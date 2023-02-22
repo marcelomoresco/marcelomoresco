@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:marcelomoresco0@gmail.com)](mailto:marcelomoresco0@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/marcelomoresco/)](https://www.instagram.com/marcelomoresco/)
 
-I'm a Flutter Developer and I create ideas and develop solutions in the shape of software using my creativity and my technical knowledge in Flutter/Dart by building mobile apps.
+I'm a Flutter Developer
 
 - See my LinkedIn: [Marcelo Moresco](https://www.linkedin.com/in/marcelo-adriel-moresco-a32104179/)
 
