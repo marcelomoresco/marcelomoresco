@@ -11,9 +11,6 @@ I’m currently studying Software Engineering at Católica de Santa Catarina and
 · I have been learning more about Flutter and Android Native
 
 - See my LinkedIn: [Marcelo Moresco](https://www.linkedin.com/in/marcelo-adriel-moresco-a32104179/)
-
-A clean and understandable code, as a good poem should be.
-
 ⚡
 
 ## 💼 Stacks
