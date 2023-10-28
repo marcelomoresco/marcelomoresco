@@ -15,3 +15,6 @@ I’m currently working at Movtech Systems as Flutter developer and studying Sof
 
 ![Flutter](https://img.shields.io/badge/-Flutter-purple?&style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-white?&style=for-the-badge&logo=dart&logoColor=blue) ![Swift](https://img.shields.io/badge/-Swift-white?&style=for-the-badge&logo=swift&logoColor=orange) ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-yellow?&style=for-the-badge&logo=firebase&logoColor=orange) ![Spring](https://img.shields.io/badge/-Spring-white?&style=for-the-badge&logo=spring&logoColor=green) ![Android](https://img.shields.io/badge/-Android-white?&style=for-the-badge&logo=android&logoColor=green) ![Kotlin](https://img.shields.io/badge/-Kotlin-white?&style=for-the-badge&logo=kotlin&logoColor=purple) ![Java](https://img.shields.io/badge/-Java-white?&style=for-the-badge&logo=java&logoColor=black)
 
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoayala&layout=compact)](https://github.com/marcelomoresco)
+
