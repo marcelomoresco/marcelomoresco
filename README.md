@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:marcelomoresco0@gmail.com)](mailto:marcelomoresco0@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/marcelomoresco/)](https://www.instagram.com/marcelomoresco/)
 
-I’m currently working at Movtech Systems as Flutter developer and studying Software Engineering at Católica
+I’m currently working at ília as Flutter developer and studying Software Engineering at Católica
 
 - See my LinkedIn: [Marcelo Moresco](https://www.linkedin.com/in/marcelo-adriel-moresco-a32104179/)
 ⚡
